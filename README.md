@@ -28,7 +28,7 @@ This repository contains code for an API that provides endpoints for fetching an
    ```
 
 2. Install dependencies:
-
+    - cd into api folder, and run
    ```bash
    npm install
    ```
